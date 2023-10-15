@@ -1,0 +1,17 @@
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.deps.json
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Services.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.AssemblyInfoInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.AssemblyInfo.cs
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\refint\ElevenNote.Services.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ref\ElevenNote.Services.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Models.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Models.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Services\obj\Debug\net7.0\ElevenNote.Services.csproj.CopyComplete

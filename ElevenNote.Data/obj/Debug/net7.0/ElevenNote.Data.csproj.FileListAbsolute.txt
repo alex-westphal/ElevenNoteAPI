@@ -1,0 +1,14 @@
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.deps.json
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfoInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.AssemblyInfo.cs
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\refint\ElevenNote.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ref\ElevenNote.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.csproj.AssemblyReference.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\bin\Debug\net7.0\ElevenNote.Data.runtimeconfig.json
+C:\Users\Reid\Documents\Eleven Fifty projects\ElevenNoteAPI\ElevenNote.Data\obj\Debug\net7.0\ElevenNote.Data.genruntimeconfig.cache
